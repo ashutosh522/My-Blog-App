@@ -9,6 +9,10 @@
 background-color: floralwhite;
 }
 
+body {
+  background-image: radial-gradient(circle, #0a86ec, #07d79c);
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

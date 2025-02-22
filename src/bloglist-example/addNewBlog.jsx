@@ -47,7 +47,7 @@ function AddNewBlog() {
               onChange={onChangeInput}
               value={blog.formData.description} />
           </div>
-          <button type="submit"  class="btn btn-outline-primary"  style={{marginBottom:'30px'}}>Save Blog</button>
+          <button type="submit"  class="btn btn-success"  style={{marginBottom:'30px'}}>Save Blog</button>
         </div>
 
       </form>
